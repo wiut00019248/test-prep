@@ -1,0 +1,12 @@
+E:\Users\00019248\source\repos\LastYear\LastYear\bin\x64\Debug\University.mdb
+E:\Users\00019248\source\repos\LastYear\LastYear\bin\x64\Debug\LastYear.exe.config
+E:\Users\00019248\source\repos\LastYear\LastYear\bin\x64\Debug\LastYear.exe
+E:\Users\00019248\source\repos\LastYear\LastYear\bin\x64\Debug\LastYear.pdb
+E:\Users\00019248\source\repos\LastYear\LastYear\obj\x64\Debug\LastYear.csproj.AssemblyReference.cache
+E:\Users\00019248\source\repos\LastYear\LastYear\obj\x64\Debug\LastYear.csproj.SuggestedBindingRedirects.cache
+E:\Users\00019248\source\repos\LastYear\LastYear\obj\x64\Debug\LastYear.Form1.resources
+E:\Users\00019248\source\repos\LastYear\LastYear\obj\x64\Debug\LastYear.Properties.Resources.resources
+E:\Users\00019248\source\repos\LastYear\LastYear\obj\x64\Debug\LastYear.csproj.GenerateResource.cache
+E:\Users\00019248\source\repos\LastYear\LastYear\obj\x64\Debug\LastYear.csproj.CoreCompileInputs.cache
+E:\Users\00019248\source\repos\LastYear\LastYear\obj\x64\Debug\LastYear.exe
+E:\Users\00019248\source\repos\LastYear\LastYear\obj\x64\Debug\LastYear.pdb
